@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aislanfagundes
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Javescript
 - 💞️ I’m looking to collaborate on language of programation
 - 📫 How to reach me: e-mail aislan.fagundes@hotmail.com
 
